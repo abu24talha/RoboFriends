@@ -10,3 +10,9 @@
     font-weight: 200;
     color: #0ccac4;
   }
+  .loading{
+    display: flex;
+    justify-content: center;
+    margin-top: 40vh;
+    color: #a0fffc;
+  }
